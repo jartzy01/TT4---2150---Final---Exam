@@ -1,0 +1,42 @@
+# ---- .NET & Entity Framework ----
+**/bin/
+**/obj/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.pdb
+*.cache
+*.suo
+*.user
+*.userosscache
+
+# ---- Node / React Frontend ----
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.next/
+frontend/.turbo/
+
+# ---- Logs / Temp ----
+*.log
+*.tmp
+*.bak
+
+# ---- Docker ----
+*.pid
+*.tar
+.dockerignore
+
+# ---- OS / Editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Git ----
+*.orig
+*.swp
+*.swo
+*.rej
+
