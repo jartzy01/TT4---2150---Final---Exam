@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Controllers",
+    "\\backend\\Data",
+    "\\backend\\Models",
+    "\\frontend",
+    "\\frontend\\src"
+  ],
+  "SelectedNode": "\\docker.compose.yml",
+  "PreviewInSolutionExplorer": false
+}
