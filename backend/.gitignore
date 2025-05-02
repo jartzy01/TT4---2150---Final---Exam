@@ -1,0 +1,20 @@
+# Ignore compiled output
+bin/
+obj/
+
+# Ignore SQLite database
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# IDEs and tooling
+.vscode/
+*.swp
+*.swo
+*.orig
+*.log
